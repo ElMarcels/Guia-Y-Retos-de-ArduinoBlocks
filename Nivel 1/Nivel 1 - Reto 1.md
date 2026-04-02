@@ -1,3 +1,3 @@
 *Guía y Retos ArduinoBlocks*
-# **NIVEL 1 - RETO 1**
+# **(*NIVEL 1*) - RETO 1**
 
